@@ -1,0 +1,53 @@
+{
+  "basics":{
+    "name":"Hanuman",
+    "email":"hanumankumar035@gmail.com",
+    "mobile":"+91-9999999988"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PSCMR",
+      "data":["2014-18","79%"]
+    },
+    {
+      "degree":"Intermediate/Diploma",
+      "institute":"Sri Chaitanya Junior College",
+      "data":["2012-14","93%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"STBEM",
+      "data":["2012","6.8"]
+    }
+  ],
+  "achievements":[
+    {
+      "name":"Awarded as <b>1<sup>st</sup>Prize</b> in <q>self-Defence</q>"
+    },
+    {
+      "name":"Got <strong>1<sup>st</sup>Prize</strong> for <q> PPT presentation.</q>"
+    }
+  ],
+  "skills":[
+    {
+    "name":"Programming Languages",
+    "data":["C","Java","Python","C++"]
+  },
+  {
+  "name":"DataBases",
+  "data":["mySql","Oracle"]
+},
+{
+"name":"Web Technologies",
+"data":["HTML","CSS","JavaScript"]
+},
+{
+"name":"Libraries and FrameWorks",
+"data":["jQuery","codeIgniter"]
+}
+  ]
+}
